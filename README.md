@@ -1,5 +1,5 @@
 # tictactoe
-A simple Tic Tac Toe game implemented in Python. This project is based on Project 1 from Jose Portilla's "The Complete Python Bootcamp From Zero to Hero in Python" course.
+A simple Tic Tac Toe game implemented in Python. This project is based on Project 1 from Jose Portilla's "The Complete Python Bootcamp From Zero to Hero in Python" course: https://www.udemy.com/course/complete-python-bootcamp/.
 
 ## Features
 - Two-player gameplay on the same machine
